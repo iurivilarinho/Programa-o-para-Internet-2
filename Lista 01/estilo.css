@@ -1,0 +1,32 @@
+
+
+div {
+    background-color: rgb(34, 0, 255);
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+  
+}
+
+body{
+    text-align: center;
+    align-content: center;
+    
+}
+
+.cor1{
+    background-color: black;
+    color: white;
+
+}
+
+.cor2{
+    background-color: white;
+
+}
+
+.cor3{
+    background-color: gray;
+
+}
+
